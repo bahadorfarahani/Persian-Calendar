@@ -1,4 +1,4 @@
-<div style="direction:rtl;">
+<div style="direction:rtl;text-align:right;">
 # Persian-Calendar
 <h1>تقویم شمسی و فارسی</h1>
 <p>Persian Calendar</p>
